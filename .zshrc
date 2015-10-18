@@ -97,7 +97,12 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=$NETKIT_HOME/bin:$PATH
 export PATH=$HOME/Android/Sdk/platform-tools:$PATH
 export PATH=$HOME/Android/Sdk/tools:$PATH
+
+export JAVA_HOME=/usr/lib/jvm/java-7-jdk
+export GEOSERVER_HOME=/opt/geoserver-2.7.2
 # export MANPATH="/usr/local/man:$MANPATH"
+
+export PGDATA=/var/lib/postgres/data
 
 source $ZSH/oh-my-zsh.sh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
