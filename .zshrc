@@ -97,6 +97,7 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=$NETKIT_HOME/bin:$PATH
 export PATH=$HOME/Android/Sdk/platform-tools:$PATH
 export PATH=$HOME/Android/Sdk/tools:$PATH
+export PATH=$HOME/npm-global/bin:$PATH
 
 export JAVA_HOME=/usr/lib/jvm/java-7-jdk
 export GEOSERVER_HOME=/opt/geoserver-2.7.2
